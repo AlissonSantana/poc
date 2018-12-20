@@ -1,0 +1,66 @@
+assine_abril:
+  -
+    revista: "Veja"
+  -
+    revista: "Exame"
+  -
+    revista: "Superinteressante"
+  -
+    revista: "Claudia"
+  -
+    revista: "Casa Claudia"
+  -
+    revista: "Quatro Rodas"
+
+newsletter:
+  msg_sucesso: "Cadastro realizado com sucesso!"
+
+referencias:
+  -
+    referencia: "Arquitetura & Construção"
+  -
+    referencia: "Bebê.com"
+  -
+    referencia: "Boa Forma"
+  -
+    referencia: "Capricho"
+  -
+    referencia: "CASA.com"
+  -
+    referencia: "CASA Claudia"
+  -
+    referencia: "CASACOR"
+  -
+    referencia: "Claudia"
+  -
+    referencia: "Cosmopolitan"
+  -
+    referencia: "Elle"
+  -
+    referencia: "Estilo"
+  -
+    referencia: "EXAME.com"
+  -
+    referencia: "Guia do Estudante"
+  -
+    referencia: "MdeMulher"
+  -
+    referencia: "Minha Casa"
+  -
+    referencia: "Mundo Estranho"
+  -
+    referencia: "Placar"
+  -
+    referencia: "Quatro Rodas"
+  -
+    referencia: "Saúde"
+  -
+    referencia: "Superinteressante"
+  -
+    referencia: "VEJA Rio"
+  -
+    referencia: "VEJA São Paulo"
+  -
+    referencia: "Viagem e Turismo"
+  -
+    referencia: "VIP"

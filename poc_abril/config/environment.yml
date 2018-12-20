@@ -1,0 +1,15 @@
+QA:
+  sites_url:
+    veja: "http://veja.abril.com.br/"
+    arquiteturaeconstrucao: "https://arquiteturaeconstrucao.abril.com.br/"
+    bebe: "https://bebe.abril.com.br/"
+HML:
+  sites_url:
+    veja: "http://veja.abril.com.br/"
+    arquiteturaeconstrucao: "https://arquiteturaeconstrucao.abril.com.br/"
+    bebe: "https://bebe.abril.com.br/"
+PROD:
+  sites_url:
+    veja: "http://veja.abril.com.br/"
+    arquiteturaeconstrucao: "https://arquiteturaeconstrucao.abril.com.br/"
+    bebe: "https://bebe.abril.com.br/"        
