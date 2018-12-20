@@ -1,0 +1,117 @@
+  Cartao1:
+   Cartao: 4064671526386880
+   CodigodeSegurança: 426
+   Validade: "06/20"
+
+  Cartao2:
+   Cartao: 4001021526386880
+   CodigodeSegurança: 426
+   Validade: "06/23"
+  
+  Cartao3:
+   Cartao: 4001021020486301
+   CodigodeSegurança: 357
+   Validade: "03/20"
+
+  Cartao4:
+   Cartao: 4001026707173874
+   CodigodeSegurança: 501
+   Validade: "01/19"
+
+  Cartao5:
+   Cartao: 4001024105087077
+   CodigodeSegurança: 255
+   Validade: "06/20"
+
+  Cartao6:
+   Cartao: 4001022022263441
+   CodigodeSegurança: 167
+   Validade: "06/20"
+
+  Cartao7:
+   Cartao: 4001025261431843
+   CodigodeSegurança: 762
+   Validade: "11/20"
+
+  Cartao8:
+   Cartao: 4001022520154514
+   CodigodeSegurança: 566
+   Validade: "01/20"
+  
+  Cartao9:
+   Cartao: 4001025671107868
+   CodigodeSegurança: 247
+   Validade: "08/19"
+
+  Cartao10:
+   Cartao: 4001023102045153
+   CodigodeSegurança: 568
+   Validade: 10/20
+
+  Cartao11:
+   Cartao: 5212542668461076
+   CodigodeSegurança: 399
+   Validade: 05/20
+
+  Cartao12:
+   Cartao: 5758435207388803
+   CodigodeSegurança: 815
+   Validade: 06/19
+
+  Cartao13:
+   Cartao: 5666134576508338
+   CodigodeSegurança: 486
+   Validade: 06/20
+
+  Cartao14:
+   Cartao: 5875371367886385
+   CodigodeSegurança: 913
+   Validade: 09/19
+
+  Cartao15:
+   Cartao: 5105816775285234
+   CodigodeSegurança: 308
+   Validade: 06/19
+
+  Cartao16:
+   Cartao: 5014432382541413
+   CodigodeSegurança: 954
+   Validade: 08/20
+
+  Cartao17:
+   Cartao: 5210317046578855
+   CodigodeSegurança: 570
+   Validade: 03/19
+
+  Cartao18:
+   Cartao: 5415354302771026
+   CodigodeSegurança: 676
+   Validade: 10/19
+
+  Cartao19:
+   Cartao: 5603502151633877
+   CodigodeSegurança: 313
+   Validade: 03/19
+
+  Cartao20:
+   Cartao: 5685075816216306
+   CodigodeSegurança: 547
+   Validade: 05/20
+
+  #INVÁLIDOS
+
+  
+  Cartao21:
+   Cartao: 0101010100000000
+   CodigodeSegurança: 547
+   Validade: 05/20
+
+  Cartao22:
+   Cartao: 1111100000000000
+   CodigodeSegurança: 548
+   Validade: 05/20
+
+  Cartao23:
+   Cartao: 0000000000011111
+   CodigodeSegurança: 549
+   Validade: 05/20

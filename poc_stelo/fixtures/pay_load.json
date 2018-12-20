@@ -1,0 +1,68 @@
+{
+"referenceId": "1469246",
+"transactionId": "6C0A3A49C0FD476D9BB9D5F313BBF834",
+"paymentData": {
+  "id": "776CE8F02BDF42A4A9CC8BE27E96E5837",
+  "paymentSystem": 1,
+  "cardNumber": "374728680555384",
+  "cardHolder": "Bianca Vieira",
+  "expiryMonth": 11,
+  "expiryYear": 2019,
+  "value": 10000,
+  "installmentsInterestRate": 0,
+  "referenceValue": 0,
+  "installments": 1,
+  "cvv2": 1344,
+  "document": "08887394008",
+  "documentType": "CPF",
+  "deviceFingerprint": "HASH-COMMING-FROM-BROWSER",
+  "billingAddress": {
+     "addresssType": "residential",
+     "street": "Theodureto Camargo",
+     "number": "488",
+     "complement": "Apartmento 103",
+     "neighborhood": "Auxiliadora",
+     "postalCode": "13075630",
+     "city": "Campinas",
+     "state": "SP",
+     "country": "BR"
+  }
+},
+"clientData": {
+  "firstName": "Bianca",
+  "lastName": "Vieira",
+  "document": "08887394008",
+  "documentType": "CPF",
+  "corporateName": null,
+  "tradeName": "VTEX",
+  "corporateDocument": "10.298.189/0001-98",
+  "isCorporate": false,
+  "email": "inmetricssteloinmetrics@gmail.com",
+  "phone": "+5521987654321",
+  "corporatePhone": "+5521987654321"
+},
+"shippingAddress": {
+   "addresssType": "residential",
+   "street": "Rua Francisco Pimentel",
+   "number": "30",
+   "complement": "Apartmento 103",
+   "neighborhood": "Jd Sao Jorge",
+   "postalCode": "05568220",
+   "city": "Campinas",
+   "state": "SP",
+   "country": "BR"
+},
+"shippingValue": 0,
+"callbackUrl": "http://129.144.34.26/stelo-mock-ec/rest/vtex/callbackUrl",
+"shoppingCart": {
+  "items": [
+    {
+      "id": "12334",
+      "name": "Camiseta M",
+      "value": 10000,
+      "quantity": 1,
+       "sellerId": "1"
+    }
+  ]
+}
+}

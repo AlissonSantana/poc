@@ -1,0 +1,9 @@
+hml:
+  home_vendedor: "https://perfilh1.hml.stelo.com.br/vendedor"
+
+  home_comprador: "https://carteirah1.hml.stelo.com.br/comprador"
+
+  home_incricao_cadastro: "https://carteirah1.hml.stelo.com.br/inscricao/comprador"
+
+prod:
+  home_vendedor: "https://stelo.com.br/vendedor"
