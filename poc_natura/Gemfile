@@ -1,0 +1,8 @@
+source "http://rubygems.org"
+
+gem "calabash-android", "0.9.0"
+gem "cucumber", "2.4.0"
+gem "bundler"
+gem "pry"
+gem 'faker'
+gem 'rspec'
